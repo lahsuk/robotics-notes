@@ -33,5 +33,5 @@ https://www.youtube.com/watch?v=vKD20BTkXhk
 
 ### Question: Why is 6 DOF a very common configuration? ###
 
-## Coding Challenge Forward Kinematics ##
+## Coding Challenge Forward Kinematics (by Daniel Shiffman) ##
 https://www.youtube.com/watch?v=xXjRlEr7AGk&t=202s
