@@ -3,7 +3,7 @@
 ## Homogenous Coordinates ##
 Combining Rotations and Translations into a single operation by simply adding a 1 to your coordinates.
 
-## Different Perspectives - Getting Philosophical##
+## Different Perspectives - Getting Philosophical ##
 Question: Is it me that is moving or is it the point P that is moving? kind of like - is it the flag that is moving or is it the wind that is moving?
 
 ## Rotation Representations (All are interchangeable) ##
