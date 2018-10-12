@@ -6,7 +6,7 @@
 * [Space and Transforms](space-and-transforms.md)
 * [Robot Arms](robot-arms.md)
     * [Forward Kinematics](robot-arms-forward-kinematics.md)
-    * [Reverse Kinematics](robot-arms-reverse-kinematics.md)
+    * [Inverse Kinematics](robot-arms-inverse-kinematics.md)
     * [Differential Kinematics](robot-arms-differential-kinematics.md)
     * [Cartesian Control](robot-arms-cartesian-control.md)
 * [Motion Planning](motion-planning.md)
