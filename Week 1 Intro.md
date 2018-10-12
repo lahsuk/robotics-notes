@@ -1,5 +1,6 @@
 ## What is a Robot? ##
 Question: Is a Dish-washer a Robot?
+Answer: yes and no
 ## Manipulation and Mobility ##
 
 ## A Few things to clear ##
