@@ -35,3 +35,4 @@ https://www.youtube.com/watch?v=vKD20BTkXhk
 
 ## Coding Challenge Forward Kinematics (by Daniel Shiffman) ##
 https://www.youtube.com/watch?v=xXjRlEr7AGk&t=202s
+![](.gitbook/assets/forwardkinematics.jpg)
