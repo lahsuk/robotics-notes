@@ -2,6 +2,7 @@
 
 * [Robotics](README.md)
 * [Installation on Windows](installation-on-windows.md)
+* [Tmux Commands](tmux-commands.md)
 * [Introduction to Robotics](introduction-to-robotics.md)
 * [Space and Transforms](space-and-transforms.md)
 * [Robot Arms](robot-arms/README.md)
